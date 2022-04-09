@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HW1_6650:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/HW1_6650_war</output-path>
+    <root id="archive" name="HW1_6650_war.war">
+      <element id="artifact" artifact-name="HW1_6650:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
